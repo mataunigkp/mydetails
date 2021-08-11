@@ -1,12 +1,9 @@
 This is my first example
 This is the second line
     This is my Third Code
-<<<<<<< HEAD
 Fourth
              Fifth
 From Master
 
-=======
 From Branch1
->>>>>>> Branch1
-Please consider this
+From Branch1
